@@ -2,8 +2,8 @@
 
   <PropertyGroup>
     <RootNamespace>Landis.Extension.Succession.NECN</RootNamespace>
-    <AssemblyName>Landis.Extension.Succession.NECN-v7</AssemblyName>
-    <AssemblyTitle>Landis.Extension.Succession.NECN-v7</AssemblyTitle>
+    <AssemblyName>Landis.Extension.Succession.NECN</AssemblyName>
+    <AssemblyTitle>Landis.Extension.Succession.NECN</AssemblyTitle>
     <AssemblyCopyright>Landis-II-Foundation</AssemblyCopyright>
     <AssemblyVersion>7.0.1</AssemblyVersion>
     <Version>7.0.1</Version>
