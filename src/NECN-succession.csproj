@@ -1,9 +1,9 @@
-﻿<Project Sdk="Microsoft.NET.Sdk">
+<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <RootNamespace>Landis.Extension.Succession.NECN</RootNamespace>
-    <AssemblyName>Landis.Extension.Succession.NECN-v7</AssemblyName>
-    <AssemblyTitle>Landis.Extension.Succession.NECN-v7</AssemblyTitle>
+    <AssemblyName>Landis.Extension.Succession</AssemblyName>
+    <AssemblyTitle>Landis.Extension.Succession</AssemblyTitle>
     <AssemblyCopyright>Landis-II-Foundation</AssemblyCopyright>
     <AssemblyVersion>7.0.1</AssemblyVersion>
     <Version>7.0.1</Version>
@@ -14,7 +14,7 @@
     <RepositoryType>git</RepositoryType>
     <NeutralLanguage>English</NeutralLanguage>
     <Authors>LANDIS-II Foundation</Authors>
-    <Product>Landis.Extension.Succession.NECN-v7</Product>
+    <Product>Landis.Extension.Succession</Product>
     <Copyright>Landis-II-Foundation</Copyright>
     <Company>LANDIS-II Foundation</Company>
     <Description></Description>
@@ -70,4 +70,3 @@
 		</Reference>  
 </ItemGroup>
 </Project>
-
